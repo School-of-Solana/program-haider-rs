@@ -1,0 +1,14 @@
+node_modules/
+**/node_modules/
+dist/
+build/
+out/
+target/
+.anchor/
+**/.anchor/
+test-ledger/
+.anchor
+keypairs/
+*.so
+program-id.json
+.DS_Store
