@@ -2,7 +2,7 @@
 
 **Deployed Frontend URL:** https://sparkly-frangipane-779222.netlify.app/
 
-**Solana Program ID:** Fsqy1AD1XjnsERPnFSWgdtS6Kk6LsJNuyESoRUEwT7Na
+**Solana Program ID (DEVNET):** Fsqy1AD1XjnsERPnFSWgdtS6Kk6LsJNuyESoRUEwT7Na
 
 ## Project Overview
 
@@ -69,6 +69,7 @@ pub struct VoteReceipt {
     pub poll_id: u64,           // Poll where vote was cast
     pub timestamp: i64,         // When the vote was cast
 }
+``` 
 
 ## Testing
 
